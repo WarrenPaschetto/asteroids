@@ -76,6 +76,7 @@ python main.py
 ```
 
 ## 🔧 To-Do Features
+[ ] **Score:** Add scoring to game.
 
 [ ] **Power-ups:** Introduce shields, speed boosts, and extra lives.
 
